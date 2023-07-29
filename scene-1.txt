@@ -3,3 +3,7 @@ Software test:
 Python
 
 Julia
+
+R
+
+JavaScript
