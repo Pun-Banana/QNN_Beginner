@@ -1,7 +1,5 @@
 Software test:
 
-GitHub
+Python
 
-Dart
-
-Golang
+Julia
